@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello 👋
+
+I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software developer/architect. I like to work on new technologies and ideas in my spare time.
+
+📫 How to reach me: hielke@ydentic.com
 
 <!--
 **hlhielkema/hlhielkema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
