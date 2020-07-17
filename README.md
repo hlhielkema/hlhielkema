@@ -7,9 +7,9 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 ---
 
-**🐈 Fact of the day:**
+**🐈 Cat fact of the day:**
 ```
-Kittens typically begin to engage in playful behavior at around four weeks of age.
+Norwegian Forest Cats are usually very people friendly.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
