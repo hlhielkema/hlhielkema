@@ -5,10 +5,14 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 - 📫 How to reach me: hielke@ydentic.com
 - 💬 Languages: Dutch and English
 
+---
+
 **🐈 Fact of the day:**
 ```
-A cat's jaw has only up and down motion; it does not have any lateral, side to side motion, like dogs and humans.
+Kittens typically begin to engage in playful behavior at around four weeks of age.
 ```
+
+*The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
 
 <!--
 **hlhielkema/hlhielkema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
