@@ -7,7 +7,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 ---
 
-**🐈 Fact of the day:**
+**🐈 Cat fact of the day:**
 ```
 [PLACEHOLDER]
 ```
