@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-A cat's normal pulse is 140-240 beats per minute, with an average of 195.
+Bobtail cats owe their shortened tails to a natural genetic mutation that has appeared in cats across time and in various regions of the world. The American Bobtail can be traced back to Yodi, a cat with the mutation that was found in Arizona in the 1960s. Yodi passed the genetic quirk on to his kittens, thus creating a new breed.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
