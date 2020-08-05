@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-Bobtail cats owe their shortened tails to a natural genetic mutation that has appeared in cats across time and in various regions of the world. The American Bobtail can be traced back to Yodi, a cat with the mutation that was found in Arizona in the 1960s. Yodi passed the genetic quirk on to his kittens, thus creating a new breed.
+The gene that codes orange fur is on the X chromosome, so female cats must inherit two orange genes to end up with orange fur, while male cats only need one.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
