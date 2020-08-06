@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-The gene that codes orange fur is on the X chromosome, so female cats must inherit two orange genes to end up with orange fur, while male cats only need one.
+The cat's tail is used to maintain balance.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
