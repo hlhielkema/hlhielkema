@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-People who own cats have on average 2.1 pets per household, where dog owners have about 1.6.
+A cat has 244 bones in its entire body—even more than a human, who only has 206 bones.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
