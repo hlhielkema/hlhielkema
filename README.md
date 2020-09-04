@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-Cats can get tapeworms from eating mice. If your cat catches a mouse it is best to take the prize away from it.
+Long, muscular hind legs enable snow leopards to leap seven times their own body length in a single bound.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
