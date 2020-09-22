@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-Hank the Cat was a Maine Coon feline that was put up as a joke candidate in the 2012 United States Senate election in Virginia, a feat which gained international coverage after Hank reportedly came third behind the two major candidates, including Vice Presidential candidate Tim Kaine.
+The Egyptian Mau breed was saved from extinciton when Russian princess Natalie Trubetskaya was given a Mau that was imported from the Middle East. When she emigrated to New York City in 1956, she brought along three Mau cats. She used these kitties to establish the Fatima Egyptian Mau cattery, which produced many of the ancestors of today’s Egyptian Maus in America.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
