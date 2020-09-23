@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-The Egyptian Mau breed was saved from extinciton when Russian princess Natalie Trubetskaya was given a Mau that was imported from the Middle East. When she emigrated to New York City in 1956, she brought along three Mau cats. She used these kitties to establish the Fatima Egyptian Mau cattery, which produced many of the ancestors of today’s Egyptian Maus in America.
+Most breeds of cat have a noted fondness for settling in high places, or perching. In the wild, a higher place may serve as a concealed site from which to hunt.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
