@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-The goddess of love, beauty, and fertility in Norse mythology, Freyja was the first cat lady. She is depicted in stories as riding a chariot that was drawn by cats.
+Ancient sailors believed that cats were magic and would often risk their own lives, even in an "every man for himself" situation, to save a cat from a sinking ship. All ships had at least one ship's cat as cats would eat the rats that have always plagued ships. The ship's cat would often be given a rank and sailors would generally take excessively good care of their cats.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
