@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-Ancient sailors believed that cats were magic and would often risk their own lives, even in an "every man for himself" situation, to save a cat from a sinking ship. All ships had at least one ship's cat as cats would eat the rats that have always plagued ships. The ship's cat would often be given a rank and sailors would generally take excessively good care of their cats.
+Due to the controversy, though loved by most, the Kashmir is overlooked by many cat fanciers.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
