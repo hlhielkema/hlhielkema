@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-Due to the controversy, though loved by most, the Kashmir is overlooked by many cat fanciers.
+Every year, nearly four million cats are eaten in China as a delicacy.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
