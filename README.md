@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-The myth that a cat has nine lives comes from their ability to jump and land from high places. The number 9 is believed by some to originate from William Shakespeare's Romeo and Juliet: "A cat has nine lives. For three he plays, for three he strays, and for the last three he stays."
+Leonardo da Vinci created a series of drawings titled "Study of Cat Movements and Positions", which consists of more than twenty drawings of cats and lions lying a sleep, sitting, playing, and fighting.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
