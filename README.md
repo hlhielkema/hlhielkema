@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-Leonardo da Vinci created a series of drawings titled "Study of Cat Movements and Positions", which consists of more than twenty drawings of cats and lions lying a sleep, sitting, playing, and fighting.
+The little tufts of hair in a cat’s ear that help keep out dirt direct sounds into the ear, and insulate the ears are called "ear furnishings."
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
