@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-Cats love playing with yarn, ribbons, and fishing-rode style toys. However, cats should not be left alone with anything that they could get tangled in.
+Cheetahs do not roar, as the other big cats do. Instead, they purr.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
