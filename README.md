@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-Cat is cat.
+Georgia O'Keeffe was a celebrated painter, a figurehead of American modernism, a fashion icon, and... a cat owner! O'Keeffe kept a number of animals at her home in New Mexico, including her pet Siamese cat, who appears alongside O'Keeffe in a portrait shot by photographer John Candelario.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
