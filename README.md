@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-Georgia O'Keeffe was a celebrated painter, a figurehead of American modernism, a fashion icon, and... a cat owner! O'Keeffe kept a number of animals at her home in New Mexico, including her pet Siamese cat, who appears alongside O'Keeffe in a portrait shot by photographer John Candelario.
+If you grow your own catnip, here's how to prepare it for kitty's enjoyment: Cut several stalks of the plant from the base. Hang them upside down in a dark and dry room for several weeks. Then cut the catnip into small pieces, rub some on your cat's favorite toys or scratching post, and let the games begin!
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
