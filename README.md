@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-If you grow your own catnip, here's how to prepare it for kitty's enjoyment: Cut several stalks of the plant from the base. Hang them upside down in a dark and dry room for several weeks. Then cut the catnip into small pieces, rub some on your cat's favorite toys or scratching post, and let the games begin!
+Compared to other felines, domestic cats have narrowly spaced canine teeth, adapted to their preferred prey of small rodents.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
