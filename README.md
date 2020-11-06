@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-Compared to other felines, domestic cats have narrowly spaced canine teeth, adapted to their preferred prey of small rodents.
+The ancient Egyptians were the first civilisation to realise the cat's potential as a vermin hunter and tamed cats to protect the corn supplies on which their lives depended.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
