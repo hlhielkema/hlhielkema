@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-The ancient Egyptians were the first civilisation to realise the cat's potential as a vermin hunter and tamed cats to protect the corn supplies on which their lives depended.
+Hello.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
