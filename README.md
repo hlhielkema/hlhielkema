@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-Cats eat grass to aid their digestion and to help them get rid of any fur in their stomachs.
+A sexually-active feral tom-cat "owns" an area of about three square miles and "sprays" to mark his territory with strong smelling urine.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
