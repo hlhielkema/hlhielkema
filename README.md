@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-A sexually-active feral tom-cat "owns" an area of about three square miles and "sprays" to mark his territory with strong smelling urine.
+When a cat lifts its butt in the air when scratched, it is a sign that your feline is giving your pats an A+. However, if you have a female kitty who hasn't been spayed, "elevator butt" could be a sign that she's ready to mate. The proper name for this stance is lordosis, and cats adopt it when they're in heat.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
