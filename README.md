@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-When a cat lifts its butt in the air when scratched, it is a sign that your feline is giving your pats an A+. However, if you have a female kitty who hasn't been spayed, "elevator butt" could be a sign that she's ready to mate. The proper name for this stance is lordosis, and cats adopt it when they're in heat.
+In 1987 cats overtook dogs as the number one pet in America.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
