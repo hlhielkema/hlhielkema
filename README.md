@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-Most cats killed on the road are un-neutered toms, as they are more likely to roam further afield and cross busy roads.
+The average female housecat could give birth to ove 100 kittens in her lifetime.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
