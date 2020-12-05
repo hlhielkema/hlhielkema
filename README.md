@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-If they have ample water, cats can tolerate temperatures up to 133 °F.
+Most breeds of cat have a noted fondness for settling in high places, or perching. In the wild, a higher place may serve as a concealed site from which to hunt.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
