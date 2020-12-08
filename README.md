@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-/facts/random?animal_type=cat&amount=2.
+In Norse mythology, the goddess Freya travels in a chariot pulled by two cats—specifically Norwegian Forest Cats.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
