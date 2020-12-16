@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-Colonel Meow, a Himalayan-Persian mix who became famous on social media websites for his extremely long fur and scowling face, holds the Guinness world record for longest hair on a cat (nine inches).
+Cats find it threatening when you make direct eye contact with them.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
