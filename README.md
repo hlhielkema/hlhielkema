@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-Cats sleep most of the time.
+The cat's clavicle, or collarbone, does not connect with other bones but is buried in the muscles of the shoulder region. This lack of a functioning collarbone allows them to fit through any opening the size of their head.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
