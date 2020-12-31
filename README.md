@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-A cat's brain is 90% similar to a human's — more similar than to a dog's.
+While we don't know the exact origins of the Russian Blue, it's commonly believed the breed comes from the Archangel Isles in northwestern Russia—the region's cold climate would certainly explain the breed's plush coat.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
