@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-Cats can not be spelled as 'test'.
+For a cat at rest, the average heart rate usually is between 150 and 180 bpm, more than twice that of a human, which averages 70 bpm.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
