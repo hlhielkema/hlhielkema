@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-Hank the Cat was a Maine Coon feline that was put up as a joke candidate in the 2012 United States Senate election in Virginia, a feat which gained international coverage after Hank reportedly came third behind the two major candidates, including Vice Presidential candidate Tim Kaine.
+The Manx hails from the Isle of Man in the Irish Sea, and many Manx are tailless, a condition believed to have been caused by a dominant genetic mutation that spread among the island's cat population.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
