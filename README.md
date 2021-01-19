@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-The Manx hails from the Isle of Man in the Irish Sea, and many Manx are tailless, a condition believed to have been caused by a dominant genetic mutation that spread among the island's cat population.
+There are cats who have survived falls from over 32 stories (320 meters) onto concrete.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
