@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-Basically all cartoon cats lied to us: Raw fish is off the table for cats as well.
+Unlike kittens, adult cats don’t release any particular key hormones during sleep. They snooze all day just because they can. :)
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
