@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-Sir Isaac Newton is not only credited with the laws of gravity but is also credited with inventing the cat flap.
+Cats sleep most of the time.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
