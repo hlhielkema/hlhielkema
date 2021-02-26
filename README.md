@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-In the early 1980s, a Chinchilla Persian cat named Jemari Sanquist mated with a Lilac Burmese named Bambino Lilac Fabergé, producing the Burmilla breed.
+Cats can't taste sweets.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
