@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-The color of the points in Siamese cats is heat related. Cool areas are darker.
+The Norwegian Forest Cat is called "skogcatt" in its homeland of Norway and plays a role in the Norwegian fairy tales and legends.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
