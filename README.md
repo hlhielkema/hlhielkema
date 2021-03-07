@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-The Norwegian Forest Cat is called "skogcatt" in its homeland of Norway and plays a role in the Norwegian fairy tales and legends.
+In the early 1980s, a Chinchilla Persian cat named Jemari Sanquist mated with a Lilac Burmese named Bambino Lilac Fabergé, producing the Burmilla breed.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
