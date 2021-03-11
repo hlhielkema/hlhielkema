@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-Legend holds that the Chartreux once lived alongside the Carthusian monks of France.
+Cat's cannot see in total darkness, however their vision is much better than a human's in semidarkness because their retinas are much more sensitive to light.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
