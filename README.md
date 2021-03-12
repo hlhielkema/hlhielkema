@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-Cat's cannot see in total darkness, however their vision is much better than a human's in semidarkness because their retinas are much more sensitive to light.
+Cats were mythic symbols of divinity in ancient Egypt.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
