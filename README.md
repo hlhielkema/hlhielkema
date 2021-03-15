@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-A domestic cat can sprint at about 31 miles per hour.
+The oldest cat on record was probably "Puss", a tabby owned by Mrs. Holway of Clayhidon, Devon. Having celebrated his 36th birthday on November 28, 1939, Puss died the following day.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
