@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-Leonardo da Vinci created a series of drawings titled "Study of Cat Movements and Positions", which consists of more than twenty drawings of cats and lions lying a sleep, sitting, playing, and fighting.
+Cats may yawn as a way to end a confrontation with another animal. Think of it as their “talk to the hand” gesture.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
