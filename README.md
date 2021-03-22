@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-If your cat licks from the toilet, bathtub, or sink, she may be telling you something about the water bowl. Make sure it's clean, replace the water regularly to keep it from getting stale or developing a film on top, and if necessary, get a new bowl. Some cats prefer glass bowls to plastic.
+Kids like cat.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
