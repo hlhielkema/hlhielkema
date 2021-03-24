@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-The Sphynx was originally known as the Canadian Hairless Cat. The breed originated in Toronto, and was renamed to Sphynx, a nod to the famous limestone sculpture in the Egyptian Desert.
+Russian scientists discovered in the 1930s that Siamese kittens kept in very warm rooms didn't develop the breed's signature dark patches.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
