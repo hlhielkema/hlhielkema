@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-Since cats treat us like cats and depend on us for things like food, water, and opening the door to let them out, they do recognize, that we are in some way in charge — the “big cat” in the shared territory. As territorial animals, our cats are constantly wondering why we’re not doing other cat things that the big cat would normally do in their territory. In fact, the “let me in, let me out, let me in” phenomenon is a good example. The bigger cat ostensibly rules the territory and therefore should be the one patrolling and marking it with pee so other cats stay away. But since humans don’t do this, indoor-outdoor cats reluctantly take on the role themselves. The apparent neuroticism of cats wanting to go outside every five minutes only to be let right back in is funny to us because it seems so silly and unnecessary. But to the cats, it’s very necessary (and frustrating) to cover for their dumb pals.
+Dsfdsgdfgdf.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
