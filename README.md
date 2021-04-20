@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-One un-neutered female cat can, in five years, be responsible for over 20,000 descendants. Female cats can have their first litter as young as six months and can have up to three litters each yearâwith five or six kittens in each litter.
+Catsssss0.10214127997553568.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
