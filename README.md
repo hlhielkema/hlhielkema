@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-Legend holds that a goddess rewarded a temple cat's piety by turning the cat's eyes blue and his coat golden, thus creating the first Birman cat.
+The smallest cat on record was a male blue point Himalayan-Persian, named Tinker Toy that measured only 7 cm (2.75 in) tall and 19 cm (7.5 in) long when full grown (aged 2.5 years).
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
