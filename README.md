@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-The smallest cat on record was a male blue point Himalayan-Persian, named Tinker Toy that measured only 7 cm (2.75 in) tall and 19 cm (7.5 in) long when full grown (aged 2.5 years).
+When a cat drinks, its tongue - which has tiny barbs on it - scoops the liquid up backwards.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
