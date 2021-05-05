@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-When a cat drinks, its tongue - which has tiny barbs on it - scoops the liquid up backwards.
+Cats may yawn as a way to end a confrontation with another animal. Think of it as their “talk to the hand” gesture.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
