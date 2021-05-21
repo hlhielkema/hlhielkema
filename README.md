@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-Legend holds that a goddess rewarded a temple cat's piety by turning the cat's eyes blue and his coat golden, thus creating the first Birman cat.
+Cats are the best pets.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
