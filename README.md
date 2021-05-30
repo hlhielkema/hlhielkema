@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-Cucumbers look enough like a snake to cause a cat's instinctive fear of snakes to kick in, causing it to panic and flee.
+Cats walk like camels and giraffes: They move both of their right feet first, then move both of their left feet. No other animals walk this way.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
