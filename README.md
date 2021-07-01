@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-If you keep your cat active during the day, he will sleep better at night. If you’re not free-feeding your cat, you can also help her get a good night’s sleep by providing her with a substantial evening meal.
+When a cat yawns, it's mouth opens so wide that you can count every tooth.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
