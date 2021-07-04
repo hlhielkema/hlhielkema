@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-In just 7 years, one un-spayed female cat and one un-neutered male cat and their offspring can result in 420,000 kittens.
+About one in two cats respond to catnip, and only develop a sensitivity to it at around 3 to 6 months of age.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
