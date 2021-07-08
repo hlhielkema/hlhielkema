@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-The world's richest cat is worth $13 million after his human passed away and left her fortune to him.
+The smallest breed of domestic cat is the Singapura or "Drain Cat" of Singapore. Adult females weigh in at an average of 4lbs.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
