@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-Due to the controversy, though loved by most, the Kashmir is overlooked by many cat fanciers.
+Whether your kitty meows or roars, it is a descendant of the Felis silvestris species, which is divided into the African wildcat, European wildcat and Steppe wildcat.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
