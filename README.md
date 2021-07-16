@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-Whether your kitty meows or roars, it is a descendant of the Felis silvestris species, which is divided into the African wildcat, European wildcat and Steppe wildcat.
+An adult cat has 30 teeth, 16 on the top and 14 on the bottom.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
