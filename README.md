@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-It’s believed that catnip produces an effect similar to LSD or marijuana in cats. The effects of nepetalactone — the chemical in catnip that can makes cats crazy — wears off within 15 minutes, and won’t surface again for a few hours, even if your cat remains in sniffing distance.
+Among domestic cats, males are more likely to fight than females.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
