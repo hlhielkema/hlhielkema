@@ -2,13 +2,12 @@ const https = require('https');
 const fs = require('fs');
 
 // Configuration
-var API_URI = 'https://cat-fact.herokuapp.com/facts/random';
+var API_URI = 'https://catfact.ninja/fact?max_length=140';
 var TEMPLATE_FILENAME = 'TEMPLATE.md';
 var TEMPLATE_PLACEHOLDER = '[PLACEHOLDER]';
 var TARGET_FILENAME = 'README.md'
 
-function getCatFact(callback)
-{
+function getCatFact(callback) {
     console.log('Fetch cat fact with API');
     https.get(API_URI, (resp) => {
         let data = '';        
@@ -16,7 +15,7 @@ function getCatFact(callback)
             data += chunk;
         });      
         resp.on('end', () => {
-            callback(JSON.parse(data).text);
+            callback(JSON.parse(data).fact);
         });      
     }).on("error", (err) => {
         console.log("Error: " + err.message);
