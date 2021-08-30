@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-According to a Gallup poll, most American pet owners obtain their cats by adopting strays.
+Cats often overract to unexpected stimuli because of their extremely sensitive nervous system.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
