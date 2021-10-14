@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-Cats have about 130,000 hairs per square inch (20,155 hairs per square centimeter).
+The most popular pedigreed cat is the Persian cat, followed by the Main Coon cat and the Siamese cat.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
