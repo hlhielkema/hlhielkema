@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-The life expectancy of cats has nearly doubled since 1930 - from 8 to 16 years.
+Cats can judge within 3 inches the precise location of a sound being made 1 yard away.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
