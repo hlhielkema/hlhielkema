@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-Grown cats have 30 teeth. Kittens have about 26 temporary teeth, which they lose when they are about 6 months old.
+A cat's jaw has only up and down motion; it does not have any lateral, side to side motion, like dogs and humans.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
