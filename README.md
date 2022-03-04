@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-A cat will tremble or shiver when it is extreme pain.
+A cat has 230 bones in its body. A human has 206. A cat has no collarbone, so it can fit through any opening the size of its head.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
