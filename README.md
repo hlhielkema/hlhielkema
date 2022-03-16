@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-In an average year, cat owners in the United States spend over $2 billion on cat food.
+Many Egyptians worshipped the goddess Bast, who had a woman’s body and a cat’s head.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
