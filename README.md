@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-A cat's jaw has only up and down motion; it does not have any lateral, side to side motion, like dogs and humans.
+The most popular pedigreed cat is the Persian cat, followed by the Main Coon cat and the Siamese cat.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
