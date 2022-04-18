@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-The most popular pedigreed cat is the Persian cat, followed by the Main Coon cat and the Siamese cat.
+Cats lose almost as much fluid in the saliva while grooming themselves as they do through urination.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
