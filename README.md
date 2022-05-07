@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-A cat has more bones than a human being; humans have 206 and the cat has 230 bones.
+A cat's jaw has only up and down motion; it does not have any lateral, side to side motion, like dogs and humans.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
