@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-Cats with long, lean bodies are more likely to be outgoing, and more protective and vocal than those with a stocky build.
+A tomcat (male cat) can begin mating when he is between 7 and 10 months old.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
