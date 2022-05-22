@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-Some common houseplants poisonous to cats include: English Ivy, iris, mistletoe, philodendron, and yew.
+The first true cats came into existence about 12 million years ago and were the Proailurus.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
