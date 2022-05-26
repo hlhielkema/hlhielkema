@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-Ancient Egyptian family members shaved their eyebrows in mourning when the family cat died.
+In the original Italian version of Cinderella, the benevolent fairy godmother figure was a cat.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
