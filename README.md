@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-Some notable people who disliked cats:  Napoleon Bonaparte, Dwight D. Eisenhower, Hitler.
+Cats can be right-pawed or left-pawed.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
