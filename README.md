@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-On average, cats spend 2/3 of every day sleeping. That means a nine-year-old cat has been awake for only three years of its life.
+The life expectancy of cats has nearly doubled over the last fifty years.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
