@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-In Ancient Egypt, when a person's house cat passed away, the owner would shave their eyebrows to reflect their grief.
+Cats come back to full alertness from the sleep state faster than any other creature.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
