@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-There are more than 500 million domestic cats in the world, with approximately 40 recognized breeds.
+Unlike humans, cats are usually lefties. Studies indicate that their left paw is typically their dominant paw.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
