@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-Most cats had short hair until about 100 years ago, when it became fashionable to own cats and experiment with breeding.
+In Siam, the cat was so revered that one rode in a chariot at the head of a parade celebrating the new king.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
