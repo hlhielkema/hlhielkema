@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-A cat has the ability to rotate their ears 180 degrees,with the help of 32 muscles that they use to control them.
+When a cats rubs up against you, the cat is marking you with it's scent claiming ownership.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
