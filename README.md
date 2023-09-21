@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-Your cat's heart beats at a rate almost double that of yours, from 110-140 beats per minute.
+Cats have 32 muscles that control the outer ear (humans have only 6). A cat can independently rotate its ears 180 degrees.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
