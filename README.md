@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-A cat almost never meows at another cat, mostly just humans. Cats typically will spit, purr, and hiss at other cats.
+Cats purr at the same frequency as an idling diesel engine, about 26 cycles per second.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
