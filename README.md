@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-The Maine Coon is 4 to 5 times larger than the Singapura, the smallest breed of cat.
+Most cats had short hair until about 100 years ago, when it became fashionable to own cats and experiment with breeding.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
