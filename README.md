@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-The Cat Fanciers Association (CFA) recognizes 44 breeds of cats.
+The strongest climber among the big cats, a leopard can carry prey twice its weight up a tree.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
