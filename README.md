@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-A cat uses its whiskers for measuring distances.  The whiskers of a cat are capable of registering very small changes in air pressure.
+Kittens remain with their mother till the age of 9 weeks.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
