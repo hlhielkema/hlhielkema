@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-A cat's appetite is the barometer of its health. Any cat that does not eat or drink for more than two days should be taken to a vet.
+A cat's brain is more similar to a man's brain than that of a dog.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
