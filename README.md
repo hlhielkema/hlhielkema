@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-Cats do not think that they are little people. They think that we are big cats. This influences their behavior in many ways.
+Not every cat gets \high\" from catnip. Whether or not a cat responds to it depends upon a recessive gene: no gene"
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
