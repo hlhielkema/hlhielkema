@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-It has been scientifically proven that stroking a cat can lower one's blood pressure.
+In ancient Egypt, when a family cat died, all family members would shave their eyebrows as a sign of mourning.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
