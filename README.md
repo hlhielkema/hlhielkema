@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-In ancient Egypt, when a family cat died, all family members would shave their eyebrows as a sign of mourning.
+Cats have about 130,000 hairs per square inch (20,155 hairs per square centimeter).
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
