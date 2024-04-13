@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-British cat owners spend roughly 550 million pounds yearly on cat food.
+A cat's whiskers are thought to be a kind of radar, which helps a cat gauge the space it intends to walk through.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
