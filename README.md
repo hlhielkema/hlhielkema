@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-In the 1750s, Europeans introduced cats into the Americas to control pests.
+A cat has approximately 60 to 80 million olfactory cells (a human has between 5 and 20 million).
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
