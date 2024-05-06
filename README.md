@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-A cat usually has about 12 whiskers on each side of its face.
+A commemorative tower was built in Scotland for a cat named Towser, who caught nearly 30,000 mice in her lifetime.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
