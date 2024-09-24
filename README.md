@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-Cats often overract to unexpected stimuli because of their extremely sensitive nervous system.
+A cat's appetite is the barometer of its health. Any cat that does not eat or drink for more than two days should be taken to a vet.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
