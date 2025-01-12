@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-Purring does not always indicate that a cat is happy and healthy - some cats will purr loudly when they are terrified or in pain.
+The first cat show was organized in 1871 in London. Cat shows later became a worldwide craze.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
