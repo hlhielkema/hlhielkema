@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-Julius Ceasar, Henri II, Charles XI, and Napoleon were all afraid of cats.
+In the 1750s, Europeans introduced cats into the Americas to control pests.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
