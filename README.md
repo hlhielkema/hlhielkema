@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-A cat’s nose pad is ridged with a unique pattern, just like the fingerprint of a human.
+Cats' eyes shine in the dark because of the tapetum, a reflective layer in the eye, which acts like a mirror.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
