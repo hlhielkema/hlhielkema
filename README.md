@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-The average lifespan of an outdoor-only cat is about 3 to 5 years while an indoor-only cat can live 16 years or much longer.
+Heat occurs several times a year and can last anywhere from 3 to 15 days.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
