@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-When a cat chases its prey, it keeps its head level. Dogs and humans bob their heads up and down.
+Ginger tabby cats can have freckles around their mouths and on their eyelids!
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
