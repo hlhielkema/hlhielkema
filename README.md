@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-In multi-cat households, cats of the opposite sex usually get along better.
+Cats are the world's most popular pets, outnumbering dogs by as many as three to one
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
