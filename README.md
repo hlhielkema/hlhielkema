@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-A cat’s back is extremely flexible because it has up to 53 loosely fitting vertebrae. Humans only have 34.
+The Maine Coon is 4 to 5 times larger than the Singapura, the smallest breed of cat.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
