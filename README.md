@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-Cats don’t have sweat glands over their bodies like humans do. Instead, they sweat only through their paws.
+Phoenician cargo ships are thought to have brought the first domesticated cats to Europe in about 900 BC.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
