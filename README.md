@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-One reason that kittens sleep so much is because a growth hormone is released only during sleep.
+Cat families usually play best in even numbers. Cats and kittens should be acquired in pairs whenever possible.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
