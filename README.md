@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-About 37% of American homes today have at least 1 cat.
+In just 7 years, one un-spayed female cat and one un-neutered male cat and their offspring can result in 420,000 kittens.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
