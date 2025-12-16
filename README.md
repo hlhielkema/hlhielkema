@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-One reason that kittens sleep so much is because a growth hormone is released only during sleep.
+A cat’s hearing is better than a dog’s. And a cat can hear high-frequency sounds up to two octaves higher than a human.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
