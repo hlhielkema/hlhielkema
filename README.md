@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-Cat paws act as tempetature regulators, shock absorbers, hunting and grooming tools, sensors, and more
+Unlike humans, cats do not need to blink their eyes on a regular basis to keep their eyes lubricated.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
