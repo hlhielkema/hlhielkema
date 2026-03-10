@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-The Maine Coon is 4 to 5 times larger than the Singapura, the smallest breed of cat.
+Purring does not always indicate that a cat is happy and healthy - some cats will purr loudly when they are terrified or in pain.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
