@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-A cat’s hearing is better than a dog’s. And a cat can hear high-frequency sounds up to two octaves higher than a human.
+Cats don’t have sweat glands over their bodies like humans do. Instead, they sweat only through their paws.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
