@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-Tabby cats are thought to get their name from Attab, a district in Baghdad, now the capital of Iraq.
+Cats eat grass to aid their digestion and to help them get rid of any fur in their stomachs.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
