@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-Cats purr at the same frequency as an idling diesel engine, about 26 cycles per second.
+Not every cat gets \high\" from catnip. Whether or not a cat responds to it depends upon a recessive gene: no gene"
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
