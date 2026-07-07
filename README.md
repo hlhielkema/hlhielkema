@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-In just 7 years, one un-spayed female cat and one un-neutered male cat and their offspring can result in 420,000 kittens.
+The first formal cat show was held in England in 1871; in America, in 1895.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions. [Read more.](https://github.com/hlhielkema/cat_facts_readme)*
