@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-A cat has more bones than a human; humans have 206, and the cat - 230.
+The cat's tail is used to maintain balance.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions.*
