@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-On average, cats spend 2/3 of every day sleeping. That means a nine-year-old cat has been awake for only three years of its life.
+The oldest cat to give birth was Kitty who, at the age of 30, gave birth to two kittens. During her life, she gave birth to 218 kittens.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions.*
