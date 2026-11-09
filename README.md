@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-The oldest cat to give birth was Kitty who, at the age of 30, gave birth to two kittens. During her life, she gave birth to 218 kittens.
+All cats need taurine in their diet to avoid blindness. Cats must also have fat in their diet as they are unable to produce it on their own.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions.*
