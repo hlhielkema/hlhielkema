@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-Cats' hearing stops at 65 khz (kilohertz); humans' hearing stops at 20 khz.
+Miacis, the primitive ancestor of cats, was a small, tree-living creature of the late Eocene period, some 45 to 50 million years ago.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions.*
