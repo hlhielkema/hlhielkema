@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-A domestic cat can run at speeds of 30 mph.
+A cat can spend five or more hours a day grooming himself.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions.*
