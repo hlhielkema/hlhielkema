@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-A cat can spend five or more hours a day grooming himself.
+Heat occurs several times a year and can last anywhere from 3 to 15 days.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions.*
