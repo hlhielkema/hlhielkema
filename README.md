@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-Heat occurs several times a year and can last anywhere from 3 to 15 days.
+Cats do not think that they are little people. They think that we are big cats. This influences their behavior in many ways.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions.*
