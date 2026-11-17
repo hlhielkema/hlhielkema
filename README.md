@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-Cats do not think that they are little people. They think that we are big cats. This influences their behavior in many ways.
+Cats respond better to women than to men, probably due to the fact that women's voices have a higher pitch.
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions.*
