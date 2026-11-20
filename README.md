@@ -9,7 +9,7 @@ I work for [Ydentic B.V.](https://github.com/Ydentic) as the lead software devel
 
 **🐈 Cat fact of the day:**
 ```
-A cat’s heart beats nearly twice as fast as a human heart, at 110 to 140 beats a minute.
+Cats have about 130,000 hairs per square inch (20,155 hairs per square centimeter).
 ```
 
 *The cat fact of the day is updated daily using GitHub Actions.*
